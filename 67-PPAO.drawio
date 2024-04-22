@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-22T07:29:14.818Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="xWxsij9uXfa8SVX7OyyG" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-22T07:29:27.506Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="vPvMfgHHoOVcLyIGwHTf" version="24.2.7" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1434" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="180" y="60" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="waecIy2JkQarvqCJjOtu-1" value="กรอบแนวคิดระบบ2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="200" width="420" height="60" as="geometry" />
+          <mxGeometry x="150" y="180" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2JVE18zk0JKYaIqIpye8-1" value="กรอบแนวคิดระบบ2" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="300" y="170" width="420" height="60" as="geometry" />
+          <mxGeometry x="680" y="200" width="420" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
