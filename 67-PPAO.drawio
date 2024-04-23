@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T03:07:43.661Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="K_ajIm2EPMuFrtY0Sw3p" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T03:08:04.774Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="k0iKp6KfHQU5DsjlidNx" version="24.2.7" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
     <mxGraphModel dx="1509" dy="2084.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -140,10 +140,10 @@
           <mxGeometry x="1440.75" y="912" width="168.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ozwLs4EPNfVE2W0TdN70-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="870" y="850" width="350" height="270" as="geometry" />
+          <mxGeometry x="860" y="836" width="350" height="280" as="geometry" />
         </mxCell>
         <mxCell id="ozwLs4EPNfVE2W0TdN70-34" value="&lt;span style=&quot;caret-color: rgba(0, 0, 0, 0); color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22text%3BstrokeColor%3D%2336393d%3BfillColor%3D%23E8E8E8%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3BverticalAlign%3Dmiddle%3Boverflow%3Dhidden%3BfontFamily%3DK2D%3BfontSource%3Dhttps%253A%252F%252Ffonts.googleapis.com%252Fcss%253Ffamily%253DK2D%3BfontSize%3D19%3BlabelBorderColor%3Dnone%3BperimeterSpacing%3D11%3Bdashed%3D1%3BstrokeWidth%3D3%3Brounded%3D1%3Bglass%3D0%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222330%22%20y%3D%22448%22%20width%3D%22290%22%20height%3D%22280%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="text;strokeColor=none;fillColor=#A2D1D4;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=19;labelBorderColor=none;perimeterSpacing=11;strokeWidth=2;rounded=1;glass=0;" vertex="1" parent="ozwLs4EPNfVE2W0TdN70-40">
-          <mxGeometry y="71" width="350" height="199" as="geometry" />
+          <mxGeometry y="71" width="350" height="209" as="geometry" />
         </mxCell>
         <mxCell id="ozwLs4EPNfVE2W0TdN70-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#455a5c&quot;&gt;หน้าอัพโหลดไฟล์&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=#A2D1D4;html=1;whiteSpace=wrap;verticalAlign=top;overflow=hidden;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=19;labelBorderColor=none;perimeterSpacing=11;strokeWidth=2;rounded=1;glass=0;align=center;spacingTop=1;" vertex="1" parent="ozwLs4EPNfVE2W0TdN70-40">
           <mxGeometry x="180" y="45" width="170" height="65" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="7" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="ozwLs4EPNfVE2W0TdN70-35" value="&lt;p style=&quot;line-height: 120%;&quot;&gt;&lt;/p&gt;&lt;ul style=&quot;font-size: 19px;&quot;&gt;&lt;li&gt;นำเข้า GIS ไฟล์ เพื่อแสดงบนแผนที่&lt;/li&gt;&lt;li&gt;แนะนำการจัดทำข้อมูล GIS&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;strokeColor=#0e8088;fillColor=#b0e3e6;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=19;labelBorderColor=none;perimeterSpacing=11;dashed=1;strokeWidth=3;rounded=1;glass=0;" vertex="1" parent="ozwLs4EPNfVE2W0TdN70-40">
-          <mxGeometry x="40" y="110" width="260" height="122" as="geometry" />
+          <mxGeometry x="40" y="124" width="260" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
