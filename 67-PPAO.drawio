@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-04-23T03:35:45.787Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="bfgZgwrxIqFaGrW1zKIi" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-23T03:38:19.950Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="QshPd-zZdP_3XTTXf9Ir" version="24.2.7" type="github">
   <diagram name="Page-1" id="8378b5f6-a2b2-b727-a746-972ab9d02e00">
-    <mxGraphModel dx="478" dy="1507.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="3245.5" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ozwLs4EPNfVE2W0TdN70-47" value="" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=19;labelBorderColor=none;perimeterSpacing=11;dashed=1;strokeWidth=3;rounded=1;glass=0;strokeColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="40" y="140" width="1690" height="1080" as="geometry" />
+          <mxGeometry x="40" y="140" width="1620" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="I4Y5r_BxwqSN-lRW5UTG-278" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 43px;&quot;&gt;กรอบแนวคิดระบบ&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=20;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="130" y="280" width="580" height="120" as="geometry" />
