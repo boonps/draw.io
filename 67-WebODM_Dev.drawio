@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-07T07:00:24.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="UUIhnfzU5D8dTMUmtufH" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-07T07:03:58.873Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NR0409QzCpHydbQyapLd" version="24.5.1" type="github">
   <diagram name="Page-1" id="D-a-eieVtsCvVFc8nxiY">
-    <mxGraphModel dx="11327" dy="6739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4547" dy="2878" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1050,7 +1050,7 @@
         </mxCell>
         <UserObject label="https://www.gistnu.nu.ac.th/img/logo.png" id="QHo2BDhPzHWrmHGrUPaP-235">
           <mxCell style="group" parent="1" connectable="0" vertex="1">
-            <mxGeometry x="495" y="6252" width="2430" height="2236" as="geometry" />
+            <mxGeometry x="241" y="12350" width="2430" height="2236" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-236" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;strokeColor=#6C8EBF;shadow=1;textShadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=none;" parent="QHo2BDhPzHWrmHGrUPaP-235" vertex="1">
@@ -1556,7 +1556,7 @@
           <mxGeometry x="959" y="2088" width="512" height="148" as="geometry" />
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-383" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="3213" y="5932" width="2430" height="2548" as="geometry" />
+          <mxGeometry x="2959" y="12030" width="2430" height="2548" as="geometry" />
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-384" value="" style="group" parent="QHo2BDhPzHWrmHGrUPaP-383" connectable="0" vertex="1">
           <mxGeometry width="2430" height="2548" as="geometry" />
@@ -2155,7 +2155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-563" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="3203" y="8650" width="2430" height="2500" as="geometry" />
+          <mxGeometry x="2949" y="14748" width="2430" height="2500" as="geometry" />
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-564" value="" style="group" parent="QHo2BDhPzHWrmHGrUPaP-563" connectable="0" vertex="1">
           <mxGeometry width="2430" height="2500" as="geometry" />
@@ -2739,7 +2739,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-738" value="" style="group" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="494" y="8650" width="2430" height="2248" as="geometry" />
+          <mxGeometry x="240" y="14748" width="2430" height="2248" as="geometry" />
         </mxCell>
         <mxCell id="QHo2BDhPzHWrmHGrUPaP-739" value="" style="group" parent="QHo2BDhPzHWrmHGrUPaP-738" connectable="0" vertex="1">
           <mxGeometry width="2430" height="2170" as="geometry" />
