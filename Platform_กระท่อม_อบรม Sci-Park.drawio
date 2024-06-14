@@ -1,9 +1,266 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T04:11:44.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.5.4" etag="7QAb3l94hMRjOc05Jgku" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-14T05:49:54.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="39fhyQPZ1l9y32LdTtld" version="24.5.4" type="github">
   <diagram name="หน้า-1" id="2RKnCBMvo7kA5dLp97LO">
-    <mxGraphModel>
+    <mxGraphModel dx="1300" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-149" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-40" width="1730" height="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-130" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="900" width="760" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-129" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="900" width="650" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-84" target="PoMzb4fSHk2vGcM2j2Yp-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-84" target="PoMzb4fSHk2vGcM2j2Yp-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-84" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=default;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="340" width="660" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-38" target="PoMzb4fSHk2vGcM2j2Yp-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-38" value="&lt;font size=&quot;1&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Platform Demo &quot;ติดตามผลผลิตกระท่อมสำหรับเกษตรกร&quot;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" width="430" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-42" target="PoMzb4fSHk2vGcM2j2Yp-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-42" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้า Login เข้าใช้งานระบบ&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="90" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-44" target="PoMzb4fSHk2vGcM2j2Yp-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-44" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้าแรก (Dashboard)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1535" y="360" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-46" target="PoMzb4fSHk2vGcM2j2Yp-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-46" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้าลงทะเบียน&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="205" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-48" target="PoMzb4fSHk2vGcM2j2Yp-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-51" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#006600&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PoMzb4fSHk2vGcM2j2Yp-50">
+          <mxGeometry x="-0.5086" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-48" target="PoMzb4fSHk2vGcM2j2Yp-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-54" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PoMzb4fSHk2vGcM2j2Yp-52">
+          <mxGeometry x="-0.1718" relative="1" as="geometry">
+            <mxPoint x="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-48" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;login User&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;ID + Password&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1605" y="160" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-70" target="PoMzb4fSHk2vGcM2j2Yp-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-70" target="PoMzb4fSHk2vGcM2j2Yp-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-70" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;Crop Register&lt;/span&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1617.5" y="430" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-72" target="PoMzb4fSHk2vGcM2j2Yp-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-72" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้าลงทะเบียนแปลงปลูก&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="450" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-75" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#006600&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;True&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1695" y="539.9968421052631" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-76" value="&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;False&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1839.9473684210525" y="280" as="geometry">
+            <mxPoint x="-20" y="209" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-78" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1505" y="580" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-61" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;แสดงข้อมูลเกษตรกร&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="10" y="15" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-62" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;แสดงข้อมูลแปลง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="200" y="15" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-63" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;แสดงข้อมูลจำนวนไร่&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="210" y="65" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-64" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;สถานะผลผลิตแต่ละแปลง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="10" y="160" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-66" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;แสดงจะนวนผลผลิต&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="10" y="65" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-67" value="&lt;font style=&quot;font-size: 15px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;แสดงวันเริ่มต้น/วันสิ้นสุด แต่ละแปลง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-78">
+          <mxGeometry x="10" y="110" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-79" target="PoMzb4fSHk2vGcM2j2Yp-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-79" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้าอัพเดทข้อมูลแปลง&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="920" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="PoMzb4fSHk2vGcM2j2Yp-105" target="PoMzb4fSHk2vGcM2j2Yp-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1960" y="1090" />
+              <mxPoint x="1960" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-112" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1280" y="920" width="600" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-82" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;หน้าแผนที่ (Map)&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-95" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;แสดงแผนที่ (Basemap)&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="107.5" y="50" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-98" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;แสดงแปลงของเกษตรกร&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="107.5" y="100" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-99" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;แสดงข้อมูลรายละเอียดของแปลง&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="352.5" y="100" width="247.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-105" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Update ข้อมูลแปลง&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="107.5" y="150" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-108" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;แสดงข้อมูลตำแหน่งสำคัญ&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="107.5" y="200" width="212.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-110" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ระบบนำทาง&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-112">
+          <mxGeometry x="352.5" y="200" width="142.55" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-82" target="PoMzb4fSHk2vGcM2j2Yp-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-82" target="PoMzb4fSHk2vGcM2j2Yp-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-98" target="PoMzb4fSHk2vGcM2j2Yp-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-82" target="PoMzb4fSHk2vGcM2j2Yp-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-82" target="PoMzb4fSHk2vGcM2j2Yp-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="PoMzb4fSHk2vGcM2j2Yp-112" source="PoMzb4fSHk2vGcM2j2Yp-108" target="PoMzb4fSHk2vGcM2j2Yp-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-128" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2220" y="980" width="550" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-113" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;เพิ่มวันเริ่มปลูก&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-115" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;เพิ่มภาพ ณ. เวลานั้น&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry y="50" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-116" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ชื่อพันธ์กระท่อม&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry y="100" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-117" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;จำนวนต้นที่ปลูก&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry y="150" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-118" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;ค่าใช้จ่ายเริ่มต้น&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry y="200" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-123" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;สถานะแปลง&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-125" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;เริ่มปลูก&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry x="140" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-126" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;กำลังโต&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry x="280" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-127" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;พร้อมเก็บเกี่ยว&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-128">
+          <mxGeometry x="420" y="250" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-131" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/010/156/510/non_2x/tick-icon-sign-symbol-design-free-png.png;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="95" width="35.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-132" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/010/156/510/non_2x/tick-icon-sign-symbol-design-free-png.png;" vertex="1" parent="1">
+          <mxGeometry x="2034.37" y="215" width="35.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-133" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/010/156/510/non_2x/tick-icon-sign-symbol-design-free-png.png;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="365" width="35.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-145" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5996/5996831.png;" vertex="1" parent="1">
+          <mxGeometry x="1253.75" y="920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-146" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5996/5996831.png;" vertex="1" parent="1">
+          <mxGeometry x="2260" y="920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-148" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1250" y="1230" width="386.25" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-135" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://static.vecteezy.com/system/resources/previews/010/156/510/non_2x/tick-icon-sign-symbol-design-free-png.png;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-148">
+          <mxGeometry x="6.25" width="47.51" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-136" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;ใช้โค้ดน้องขมได้เลยประบแก้รายละเอียด&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-148">
+          <mxGeometry x="46.25" y="10" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-138" value="&lt;font face=&quot;k2d&quot;&gt;&lt;span style=&quot;font-size: 17px;&quot;&gt;มีโค้ดต้นฉบับ+ปรับเล็กน้อย&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-148">
+          <mxGeometry x="66.25" y="70" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/5996/5996831.png;" vertex="1" parent="PoMzb4fSHk2vGcM2j2Yp-148">
+          <mxGeometry y="50" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-23" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="1252.5" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-25" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;เป้าหมายผู้ใช้งาน&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1237.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-26" value="&lt;font face=&quot;k2d&quot;&gt;1. สำหรับเกษตรกรใช้ติดตามผลผลิตในแปลงตนเอง&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;k2d&quot;&gt;2. ให้ความรู้เรื่อง GIS การอ่านแผนที่, ข้อมูล GIS, การใช้งานแพลต์ฟอร์ม&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1680" y="1262.5" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-150" value="&lt;font style=&quot;font-size: 29px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=k2d&quot; face=&quot;k2d&quot;&gt;&lt;b&gt;Web Application&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="30" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-151" value="&lt;font size=&quot;1&quot; face=&quot;k2d&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;ระยะเวลา : Demo Version 1&amp;nbsp; ก่อนลงภาคสนาม ก.ค&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="120" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PoMzb4fSHk2vGcM2j2Yp-152" value="&lt;font size=&quot;1&quot; face=&quot;k2d&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;ระยะเวลา : Demo Version 2&amp;nbsp; ก่อนเตรียมหลักสูตร&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="195" width="530" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
