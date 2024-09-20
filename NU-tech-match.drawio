@@ -1,20 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.15">
   <diagram name="Page-1" id="xaBScqVrZRNOG_s1V2p9">
-    <mxGraphModel dx="3217" dy="-1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5607" dy="-950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="43QZVn4vfsfI2NEGmepG-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://images.clickittech.com/2020/wp-content/uploads/2022/03/10172917/Diagram-56-scaled.jpg;" parent="1" vertex="1">
-          <mxGeometry x="420" y="3450" width="1200" height="821" as="geometry" />
-        </mxCell>
-        <mxCell id="IYAlEV4HdCrfrUGSwek0-17" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;strokeColor=#6C8EBF;shadow=1;textShadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-780" y="5596" width="180" height="220" as="geometry" />
-        </mxCell>
-        <mxCell id="IYAlEV4HdCrfrUGSwek0-20" value="Data" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;glass=0;shadow=1;textShadow=1;fontSize=17;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="-756.54" y="5560" width="133.08" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="zx_7Ppx-CcEC-WtG45oS-162" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-50" y="4630" width="2010" height="1150" as="geometry" />
+          <mxGeometry x="-730" y="3570" width="2010" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="zx_7Ppx-CcEC-WtG45oS-161" value="" style="group" vertex="1" connectable="0" parent="zx_7Ppx-CcEC-WtG45oS-162">
           <mxGeometry width="2010" height="1150" as="geometry" />
