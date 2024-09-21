@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" modified="2024-09-21T06:34:46.121Z" version="24.5.4" etag="GfM4OEV-1o78uprxpy1b" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" modified="2024-09-21T06:36:22.234Z" version="24.5.4" etag="1qD3LoX_e-FyzWVNwPaD" type="github">
   <diagram name="Page-1" id="xaBScqVrZRNOG_s1V2p9">
     <mxGraphModel dx="4014" dy="-1916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry y="30" width="2020" height="1360" as="geometry" />
         </mxCell>
         <mxCell id="zx_7Ppx-CcEC-WtG45oS-160" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot; color=&quot;#3b526c&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;Developing Platform of Access Open Technology&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;arcSize=21;glass=0;shadow=1;" parent="DsVc3oEuwMU1TifXb_NI-151" vertex="1">
-          <mxGeometry x="590" width="1310" height="80" as="geometry" />
+          <mxGeometry x="651" width="1310" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zx_7Ppx-CcEC-WtG45oS-142" value="" style="group" parent="DsVc3oEuwMU1TifXb_NI-151" vertex="1" connectable="0">
           <mxGeometry x="1551" y="1004" width="400" height="230" as="geometry" />
