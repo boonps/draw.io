@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.16" pages="2">
   <diagram name="Page-1" id="xaBScqVrZRNOG_s1V2p9">
-    <mxGraphModel dx="5290" dy="-801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3430" dy="-1929" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="zx_7Ppx-CcEC-WtG45oS-160" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot; color=&quot;#3b526c&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;Developing Platform of Access Open Technology&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;arcSize=21;glass=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-59" y="3599" width="1310" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="ZMetVlKvIMLBVfQXzIXG-2" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-710" y="3629" width="2020" height="1361" as="geometry" />
         </mxCell>
@@ -608,6 +605,9 @@
         </mxCell>
         <mxCell id="zx_7Ppx-CcEC-WtG45oS-151" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;3.&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d49eab;strokeColor=#B5739D;glass=0;shadow=1;textShadow=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;arcSize=50;fontColor=#000000;" parent="zx_7Ppx-CcEC-WtG45oS-150" vertex="1">
           <mxGeometry width="60" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="zx_7Ppx-CcEC-WtG45oS-160" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot; color=&quot;#3b526c&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;Developing Platform of Access Open Technology&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=default;arcSize=21;glass=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="-59" y="3599" width="1310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
