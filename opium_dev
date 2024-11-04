@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="925" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,11 +37,14 @@
         <mxCell id="MByvKyEScgYAw-AbkIL6-28" value="เลือกจุดหมาย / ปลายทาง" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
           <mxGeometry x="660" y="41.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-92" value="เก็บ Tracking เส้นทางขาเข้าแปลง" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
-          <mxGeometry x="810" y="41.49999999999997" width="70" height="37" as="geometry" />
+        <mxCell id="MByvKyEScgYAw-AbkIL6-94" value="เลือก Tracking&amp;nbsp;&lt;div&gt;เส้นทาง&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="950" y="41.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-94" value="เก็บ Tracking เส้นทางขาเข้า" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
-          <mxGeometry x="920" y="41.49999999999997" width="70" height="37" as="geometry" />
+        <mxCell id="MByvKyEScgYAw-AbkIL6-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-2" source="MByvKyEScgYAw-AbkIL6-95" target="MByvKyEScgYAw-AbkIL6-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-95" value="เดินทางสู่พื้นที่&amp;nbsp;&lt;div&gt;ขาเข้า&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
+          <mxGeometry x="820" y="41.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="กระบวนการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="160" width="1230" height="120" as="geometry" />
@@ -57,6 +60,24 @@
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-71" value="เข้าถึงพิกัดปลายทาง" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="710" y="41.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-92" value="นำทางสู่พื้นที่" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="820" y="41.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-98" value="เข้าถึงพิกัดในโหมด ออฟไลน์" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="950" y="41.49999999999997" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-101" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=3;curved=0;flowAnimation=0;strokeColor=default;" edge="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="624" y="21" as="sourcePoint" />
+            <mxPoint x="764" y="21" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="2b4e8129b02d487f-3" target="MByvKyEScgYAw-AbkIL6-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="644.71" y="19.5" as="sourcePoint" />
+            <mxPoint x="645" y="40" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="เซิร์ฟเวอร์" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="280" width="1230" height="220" as="geometry" />
@@ -133,14 +154,6 @@
         <mxCell id="MByvKyEScgYAw-AbkIL6-27" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-20" target="MByvKyEScgYAw-AbkIL6-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-28" target="MByvKyEScgYAw-AbkIL6-30">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="695" y="180" />
-              <mxPoint x="645" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-71" target="MByvKyEScgYAw-AbkIL6-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -149,19 +162,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-74" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-28" target="MByvKyEScgYAw-AbkIL6-71">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="695" y="180" />
-              <mxPoint x="745" y="180" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-87" target="MByvKyEScgYAw-AbkIL6-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-92" target="MByvKyEScgYAw-AbkIL6-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-94" target="MByvKyEScgYAw-AbkIL6-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="1">
           <mxGeometry x="1150" y="60" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-103" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="MByvKyEScgYAw-AbkIL6-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="905" y="220" as="sourcePoint" />
+            <mxPoint x="1020" y="220" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
