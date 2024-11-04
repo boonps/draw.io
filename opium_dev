@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="521" dy="279" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1062" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-212" value="เลือก Tracking&amp;nbsp;&lt;div&gt;เส้นทาง ขาออก&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="2b4e8129b02d487f-2">
-          <mxGeometry x="1300" y="41.49999999999997" width="70" height="37" as="geometry" />
+          <mxGeometry x="1350" y="41.49999999999997" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="กระบวนการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="160" width="1900" height="120" as="geometry" />
@@ -155,7 +155,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.029;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="MByvKyEScgYAw-AbkIL6-208" target="MByvKyEScgYAw-AbkIL6-215">
+        <mxCell id="MByvKyEScgYAw-AbkIL6-222" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; face=&quot;K2D&quot; style=&quot;font-size: 6px;&quot;&gt;มี&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MByvKyEScgYAw-AbkIL6-219">
+          <mxGeometry x="-0.0271" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-221" value="&lt;font style=&quot;font-size: 6px;&quot; face=&quot;K2D&quot;&gt;ไม่มี&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.029;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="MByvKyEScgYAw-AbkIL6-208" target="MByvKyEScgYAw-AbkIL6-215">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1171" y="45" />
@@ -169,8 +174,40 @@
         <mxCell id="MByvKyEScgYAw-AbkIL6-215" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; style=&quot;font-size: 8px;&quot;&gt;เริ่ม / เสร็จสิ้น&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="1140" y="80" width="55" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="MByvKyEScgYAw-AbkIL6-217" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; style=&quot;font-size: 8px;&quot;&gt;เริ่ม / เสร็จสิ้น&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
+        <mxCell id="MByvKyEScgYAw-AbkIL6-217" value="แสดงข้อมูล" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
           <mxGeometry x="1232" y="80" width="55" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.495;entryY=-0.051;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="2b4e8129b02d487f-3" source="MByvKyEScgYAw-AbkIL6-226">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1424.9999999999998" y="45.999999999999886" as="sourcePoint" />
+            <mxPoint x="1429.2250000000001" y="79.59750000000008" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1430" y="45" />
+              <mxPoint x="1430" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-224" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; face=&quot;K2D&quot; style=&quot;font-size: 6px;&quot;&gt;มี&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MByvKyEScgYAw-AbkIL6-223">
+          <mxGeometry x="-0.0271" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-225" value="&lt;font style=&quot;font-size: 6px;&quot; face=&quot;K2D&quot;&gt;ไม่มี&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.555;entryY=-0.029;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="2b4e8129b02d487f-3" source="MByvKyEScgYAw-AbkIL6-226" target="MByvKyEScgYAw-AbkIL6-227">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1341" y="45" />
+              <mxPoint x="1341" y="79" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-226" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; style=&quot;font-size: 8px;&quot;&gt;ตรวจสอบ&lt;/font&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; style=&quot;font-size: 8px;&quot;&gt;ข้อมูลเส้นทาง&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1345" y="20" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-227" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=K2D&quot; style=&quot;font-size: 8px;&quot;&gt;เริ่ม / เสร็จสิ้น&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1310" y="80" width="55" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-228" value="แสดงข้อมูล" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" vertex="1" parent="2b4e8129b02d487f-3">
+          <mxGeometry x="1402" y="80" width="55" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="เซิร์ฟเวอร์" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
           <mxGeometry y="280" width="1900" height="220" as="geometry" />
@@ -242,6 +279,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1095" y="118.50000000000011" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="MByvKyEScgYAw-AbkIL6-229" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="2b4e8129b02d487f-1" source="MByvKyEScgYAw-AbkIL6-212" target="MByvKyEScgYAw-AbkIL6-226">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="1">
           <mxGeometry x="1500" y="50" width="30" height="30" as="geometry" />
