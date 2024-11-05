@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2b4e8129b02d487f-1" value="กระบวนการพัฒนาแอปพลิเคชันสำหรับติดตามพืชเสพติด (ฝิ่น)" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=13;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="160" y="40" width="2060" height="610" as="geometry" />
+          <mxGeometry x="160" y="40" width="2030" height="610" as="geometry" />
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" parent="2b4e8129b02d487f-1" source="2b4e8129b02d487f-6" target="MByvKyEScgYAw-AbkIL6-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -45,7 +45,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2b4e8129b02d487f-2" value="ผู้ใช้" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="40" width="2060" height="120" as="geometry" />
+          <mxGeometry y="40" width="2030" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=K2D;fontSize=8;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;curved=0;" parent="2b4e8129b02d487f-2" source="2b4e8129b02d487f-5" target="2b4e8129b02d487f-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="1950" y="45" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-3" value="กระบวนการ" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="160" width="2060" height="230" as="geometry" />
+          <mxGeometry y="160" width="2030" height="230" as="geometry" />
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-9" value="สืบค้นข้อมูล" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=K2D;fontSize=8;align=center;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-3" vertex="1">
           <mxGeometry x="120" y="88.5" width="70" height="37" as="geometry" />
@@ -280,7 +280,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2b4e8129b02d487f-4" value="เซิร์ฟเวอร์" style="swimlane;html=1;startSize=20;horizontal=0;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="390" width="2060" height="220" as="geometry" />
+          <mxGeometry y="390" width="2030" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MByvKyEScgYAw-AbkIL6-2" value="รายการข้อมูล" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fontSize=8;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="100" y="120" width="110" height="80" as="geometry" />
