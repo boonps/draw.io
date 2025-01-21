@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="-jsWknLSB2cgd7WFWsZX">
-    <mxGraphModel dx="1839" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1806" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,8 +76,8 @@
         <mxCell id="3TScN3PvkGAsa4OGOtqx-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TScN3PvkGAsa4OGOtqx-38" target="3TScN3PvkGAsa4OGOtqx-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TScN3PvkGAsa4OGOtqx-38" value="Enter the data recording process" style="whiteSpace=wrap;html=1;fontFamily=K2D;fillColor=none;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="299.5" width="120" height="80.5" as="geometry" />
+        <mxCell id="3TScN3PvkGAsa4OGOtqx-38" value="Data recording process" style="whiteSpace=wrap;html=1;fontFamily=K2D;fillColor=none;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;spacingBottom=0;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="299.5" width="120" height="70.5" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="3TScN3PvkGAsa4OGOtqx-14" target="3TScN3PvkGAsa4OGOtqx-57">
           <mxGeometry relative="1" as="geometry">
@@ -112,8 +112,8 @@
             <mxPoint x="-1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3TScN3PvkGAsa4OGOtqx-49" value="Enter the data submission process" style="whiteSpace=wrap;html=1;fontFamily=K2D;fillColor=none;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="420" width="120" height="80" as="geometry" />
+        <mxCell id="3TScN3PvkGAsa4OGOtqx-49" value="Data submission process" style="whiteSpace=wrap;html=1;fontFamily=K2D;fillColor=none;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="420" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-53" value="CRUD Data" style="whiteSpace=wrap;html=1;fontFamily=K2D;fillColor=none;rounded=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;" vertex="1" parent="1">
           <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
@@ -130,19 +130,19 @@
           <mxGeometry x="740" y="375" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-64" value="&lt;font&gt;Offline&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#d5e8d4;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="226" y="343.5" width="30" height="15" as="geometry" />
+          <mxGeometry x="226" y="345.5" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-66" value="&lt;font&gt;Online&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#dae8fc;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-14" y="204" width="30" height="15" as="geometry" />
+          <mxGeometry x="-14" y="206" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-68" value="&lt;font&gt;Online&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#dae8fc;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="423" width="30" height="15" as="geometry" />
+          <mxGeometry x="-15" y="425" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-69" value="&lt;font&gt;Online&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#dae8fc;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-95" y="303" width="30" height="15" as="geometry" />
+          <mxGeometry x="-95" y="305" width="30" height="15" as="geometry" />
         </mxCell>
         <mxCell id="3TScN3PvkGAsa4OGOtqx-70" value="&lt;font&gt;Offline&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#d5e8d4;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-15" y="303" width="30" height="15" as="geometry" />
+          <mxGeometry x="-15" y="305" width="30" height="15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
