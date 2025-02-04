@@ -1,47 +1,85 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="r04kMvA0Kik2lb05qq4h">
-    <mxGraphModel dx="143" dy="-461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="405" dy="-293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-2" target="CCbu5MB0F2N-UsjDaiTY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-2" value="User" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="930" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-3" target="CCbu5MB0F2N-UsjDaiTY-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-3" target="CCbu5MB0F2N-UsjDaiTY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1490" />
+              <mxPoint x="1205" y="1490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-3" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="930" y="1485" width="120" height="60" as="geometry" />
+          <mxGeometry x="930" y="1605" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-4" target="CCbu5MB0F2N-UsjDaiTY-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-4" value="Tech Stock&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[ User Web ]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="1315" width="140" height="90" as="geometry" />
+          <mxGeometry x="1135" y="1315" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-5" value="API" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1680" y="1150" width="120" height="60" as="geometry" />
+          <mxGeometry x="1910" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-6" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1470" width="250" height="30" as="geometry" />
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-7" target="CCbu5MB0F2N-UsjDaiTY-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-7" value="Authentication Page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="1480" width="160" height="70" as="geometry" />
+          <mxGeometry x="910" y="1720" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-8" value="About" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1160" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-9" value="Map Interactive" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1210" width="220" height="30" as="geometry" />
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-10" target="CCbu5MB0F2N-UsjDaiTY-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-10" value="Tech Stock&lt;div&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;[ Admin Web ]&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="1470" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-12" value="Up &amp;amp; Download Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1510" width="250" height="30" as="geometry" />
+          <mxGeometry x="1140" y="1590" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-13" value="NU&lt;div&gt;Server&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1950" y="1310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-14" value="User&amp;nbsp; Activity Log" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="1550" width="250" height="30" as="geometry" />
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1360" y="1230" width="280" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-15" value="Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="1260" width="220" height="30" as="geometry" />
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-18" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot;&gt;&lt;u&gt;&lt;b&gt;Page&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-25">
+          <mxGeometry width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-8" value="About" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-25">
+          <mxGeometry x="30" y="50" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-9" value="Map Interactive" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-25">
+          <mxGeometry x="30" y="100" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-15" value="Privacy Policy" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-25">
+          <mxGeometry x="30" y="150" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-28" value="Contact" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-25">
+          <mxGeometry x="30" y="200" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1360" y="1530" width="280" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-30" value="&lt;font style=&quot;font-size: 16px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot;&gt;&lt;u&gt;&lt;b&gt;Page&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-29">
+          <mxGeometry width="280" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-6" value="Dashboard" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-29">
+          <mxGeometry x="15" y="52" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-12" value="Up &amp;amp; Download Data" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-29">
+          <mxGeometry x="15" y="100" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-14" value="User&amp;nbsp; Activity Log" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-29">
+          <mxGeometry x="15" y="150" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
