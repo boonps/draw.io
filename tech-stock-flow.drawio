@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="r04kMvA0Kik2lb05qq4h">
-    <mxGraphModel dx="352" dy="-263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="1506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-55" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;strokeColor=#314354;shadow=1;textShadow=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=default;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="3740" y="1880" width="1400" height="1000" as="geometry" />
+          <mxGeometry x="870" y="1070" width="1720" height="940" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-2" target="CCbu5MB0F2N-UsjDaiTY-75">
           <mxGeometry relative="1" as="geometry" />
@@ -69,7 +69,7 @@
           <mxGeometry width="109.99999999999997" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-56" value="&lt;b&gt;Workflow - Tech Stock Platform&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;arcSize=32;fontSize=33;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1190" width="548.37" height="70" as="geometry" />
+          <mxGeometry x="2041.63" y="1030" width="548.37" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-122" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1140" y="1110" width="780" height="450" as="geometry" />
@@ -182,7 +182,7 @@
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-151" value="Internal Services" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2030" y="1560" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-75" target="CCbu5MB0F2N-UsjDaiTY-151">
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;curved=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-75" target="CCbu5MB0F2N-UsjDaiTY-151">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-157" value="Request &amp;amp; Response&lt;div&gt;&lt;span style=&quot;font-size: 11px; font-weight: 400;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot;&gt;format Transfer : GIS and other&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="1">
