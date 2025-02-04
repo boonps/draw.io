@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="r04kMvA0Kik2lb05qq4h">
-    <mxGraphModel dx="232" dy="-347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="696" dy="-24" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,16 +19,33 @@
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-3" value="Admin" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="930" y="1605" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-152" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-7" target="CCbu5MB0F2N-UsjDaiTY-151">
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-152" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=0;startArrow=classic;startFill=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-7" target="CCbu5MB0F2N-UsjDaiTY-151">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990" y="1960" />
+              <mxPoint x="950" y="1960" />
               <mxPoint x="2100" y="1960" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-156" value="Request &amp;amp; Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="CCbu5MB0F2N-UsjDaiTY-152">
+          <mxGeometry x="-0.1326" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-153" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-7" target="CCbu5MB0F2N-UsjDaiTY-75">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-158" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=0;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-7" target="CCbu5MB0F2N-UsjDaiTY-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="1834" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-159" value="Authorization &amp;amp;&lt;div&gt;Role&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="CCbu5MB0F2N-UsjDaiTY-158">
+          <mxGeometry x="-0.0944" y="-1" relative="1" as="geometry">
+            <mxPoint x="26" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-7" value="&lt;b&gt;Authentication&lt;/b&gt; Page" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="910" y="1720" width="160" height="70" as="geometry" />
@@ -147,7 +164,7 @@
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-136" value="User Activity Log" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontStyle=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-146">
           <mxGeometry x="334" y="74.63000000000011" width="170" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="CCbu5MB0F2N-UsjDaiTY-142" value="&lt;b style=&quot;font-family: K2D; font-size: 17px;&quot;&gt;Web App - USER&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;glass=0;shadow=1;textShadow=1;fontColor=#ffffff;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-146">
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-142" value="&lt;b style=&quot;font-family: K2D; font-size: 17px;&quot;&gt;Web App - Admin&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;glass=0;shadow=1;textShadow=1;fontColor=#ffffff;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-146">
           <mxGeometry x="293.5" width="193" height="34" as="geometry" />
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-143" value="Data Management" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=18;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontStyle=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-146">
@@ -167,6 +184,11 @@
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="CCbu5MB0F2N-UsjDaiTY-75" target="CCbu5MB0F2N-UsjDaiTY-151">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-157" value="Request &amp;amp; Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontStyle=1;fontSize=14;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1532.8571428571427" y="1968" as="geometry">
+            <mxPoint x="567" y="-526" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
