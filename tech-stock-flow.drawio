@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="r04kMvA0Kik2lb05qq4h">
-    <mxGraphModel dx="1410" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="119" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="CCbu5MB0F2N-UsjDaiTY-77" value="&lt;b style=&quot;font-family: K2D; font-size: 17px;&quot;&gt;Web App&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeColor=#3A5431;glass=0;shadow=1;textShadow=1;fontColor=#ffffff;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-85">
           <mxGeometry x="292" width="105.99999999999997" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="CCbu5MB0F2N-UsjDaiTY-101" value="Network partners and teams" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=20;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;fontStyle=0;spacingLeft=10;spacingRight=10;" vertex="1" parent="CCbu5MB0F2N-UsjDaiTY-85">
+          <mxGeometry x="320" y="210" width="250" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
