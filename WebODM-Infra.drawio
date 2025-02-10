@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="9O5_x4W_DbiE08nA1CkK">
-    <mxGraphModel dx="1224" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="327" dy="212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,15 @@
         </mxCell>
         <mxCell id="ItvUEO7hq5XVIe8wMghT-10" value="&lt;p&gt;CLIENT&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="ItvUEO7hq5XVIe8wMghT-137">
           <mxGeometry x="5" y="3" width="50" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ItvUEO7hq5XVIe8wMghT-144" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://letslearnabout.net/wp-content/uploads/2024/01/queesdocker1-768x432-1.webp;" vertex="1" parent="1">
+          <mxGeometry x="783.22" y="600" width="35.56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ItvUEO7hq5XVIe8wMghT-145" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://letslearnabout.net/wp-content/uploads/2024/01/queesdocker1-768x432-1.webp;" vertex="1" parent="1">
+          <mxGeometry x="783.22" y="429" width="35.56" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ItvUEO7hq5XVIe8wMghT-146" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://letslearnabout.net/wp-content/uploads/2024/01/queesdocker1-768x432-1.webp;" vertex="1" parent="1">
+          <mxGeometry x="783.22" y="257" width="35.56" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
