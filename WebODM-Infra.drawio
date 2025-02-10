@@ -38,10 +38,10 @@
           <mxGeometry x="150" y="257" width="150" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ItvUEO7hq5XVIe8wMghT-22" value="&lt;p&gt;HTTP&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="1">
-          <mxGeometry x="280" y="291" width="50" height="22" as="geometry" />
+          <mxGeometry x="430" y="380" width="50" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ItvUEO7hq5XVIe8wMghT-23" value="&lt;p&gt;HTTP&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;rotation=296;" vertex="1" parent="1">
-          <mxGeometry x="320" y="226" width="50" height="22" as="geometry" />
+          <mxGeometry x="410" y="285" width="50" height="22" as="geometry" />
         </mxCell>
         <mxCell id="ItvUEO7hq5XVIe8wMghT-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="512" y="149" width="180" height="142" as="geometry" />
