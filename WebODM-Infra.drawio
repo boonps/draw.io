@@ -732,7 +732,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uhFiZiRd_v2AVpjjqNXY" name="Process Flow">
-    <mxGraphModel dx="1200" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,7 +946,7 @@
         <mxCell id="d4LLObXrjVZFvoq416VN-52" value="Imports Images into GIS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
           <mxGeometry x="60" y="170" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d4LLObXrjVZFvoq416VN-53" value="Providing services&lt;div&gt;for the GIS ecosystem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
+        <mxCell id="d4LLObXrjVZFvoq416VN-53" value="Providing services&lt;div&gt;for the GIS Ecosystem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
           <mxGeometry x="60" y="290" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-22" source="d4LLObXrjVZFvoq416VN-39" target="d4LLObXrjVZFvoq416VN-48">
