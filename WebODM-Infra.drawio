@@ -732,7 +732,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uhFiZiRd_v2AVpjjqNXY" name="Process Flow">
-    <mxGraphModel dx="1263" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1714" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -849,10 +849,20 @@
         <mxCell id="FSl3WB_qfvaRqZlb8yid-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" source="FSl3WB_qfvaRqZlb8yid-50" target="d4LLObXrjVZFvoq416VN-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-62" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" source="FSl3WB_qfvaRqZlb8yid-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="330" />
+              <mxPoint x="40" y="420" />
+              <mxPoint x="70" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-50" value="&lt;div&gt;Permission:&lt;/div&gt;- Full Access -" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
           <mxGeometry x="112" y="290" width="142.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FSl3WB_qfvaRqZlb8yid-54" value="Configures Web Application" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-54" value="System Setup &amp;amp; Configuration" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
           <mxGeometry x="112" y="410" width="142.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-56" value="Manage All User Projects" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
@@ -861,8 +871,47 @@
         <mxCell id="FSl3WB_qfvaRqZlb8yid-58" value="Manage Processing Nodes" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
           <mxGeometry x="112" y="650" width="142.5" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FSl3WB_qfvaRqZlb8yid-59" value="Monitor System Overview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-59" value="Managing Users &amp;amp; Permissions" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
           <mxGeometry x="112" y="770" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-60" value="Monitor System Overview" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-24">
+          <mxGeometry x="112" y="890" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-61" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=6;curved=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="401" as="sourcePoint" />
+            <mxPoint x="70" y="981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-63" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" target="FSl3WB_qfvaRqZlb8yid-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="450" as="sourcePoint" />
+            <mxPoint x="130" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-64" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" target="FSl3WB_qfvaRqZlb8yid-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="569.8" as="sourcePoint" />
+            <mxPoint x="112" y="569.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-65" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" target="FSl3WB_qfvaRqZlb8yid-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="689.8" as="sourcePoint" />
+            <mxPoint x="112" y="689.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-66" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" target="FSl3WB_qfvaRqZlb8yid-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="809.8" as="sourcePoint" />
+            <mxPoint x="112" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FSl3WB_qfvaRqZlb8yid-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-24" target="FSl3WB_qfvaRqZlb8yid-60">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="929.8" as="sourcePoint" />
+            <mxPoint x="112" y="930" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="d4LLObXrjVZFvoq416VN-29" value="PROCESSING" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="d4LLObXrjVZFvoq416VN-22">
           <mxGeometry x="800" y="70" width="260" height="1880" as="geometry" />
