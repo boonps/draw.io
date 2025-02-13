@@ -732,7 +732,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uhFiZiRd_v2AVpjjqNXY" name="Process Flow">
-    <mxGraphModel dx="774" dy="495" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="889" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -922,7 +922,7 @@
         <mxCell id="d4LLObXrjVZFvoq416VN-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;PROCESSING&lt;/font&gt;" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="d4LLObXrjVZFvoq416VN-22">
           <mxGeometry x="780" y="70" width="280" height="1570" as="geometry" />
         </mxCell>
-        <mxCell id="d4LLObXrjVZFvoq416VN-46" value="Generates Outputs&amp;nbsp;&lt;div&gt;&lt;strong data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;Orthophoto, DSM, DTM&lt;/strong&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;,&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;&amp;nbsp;3D Model , etc.&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-29">
+        <mxCell id="d4LLObXrjVZFvoq416VN-46" value="Generates Outputs&amp;nbsp;&lt;div&gt;&lt;strong data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;Orthophoto, DSM, DTM&lt;/strong&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;,&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;&amp;nbsp;3D Model, etc.&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-29">
           <mxGeometry x="61.25" y="410" width="177.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="d4LLObXrjVZFvoq416VN-29" source="d4LLObXrjVZFvoq416VN-48" target="d4LLObXrjVZFvoq416VN-51">
@@ -946,7 +946,7 @@
         <mxCell id="d4LLObXrjVZFvoq416VN-52" value="Imports Images into GIS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
           <mxGeometry x="60" y="170" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d4LLObXrjVZFvoq416VN-53" value="Providing services&lt;div&gt;for the GIS Ecosystem&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
+        <mxCell id="d4LLObXrjVZFvoq416VN-53" value="Providing services&lt;div&gt;for the GIS Ecosystem&lt;/div&gt;&lt;div&gt;&lt;b&gt;WMS, WMTS, etc.&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="d4LLObXrjVZFvoq416VN-30">
           <mxGeometry x="60" y="290" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-68" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="d4LLObXrjVZFvoq416VN-22" source="d4LLObXrjVZFvoq416VN-39" target="d4LLObXrjVZFvoq416VN-48">
