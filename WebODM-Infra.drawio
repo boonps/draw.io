@@ -1296,7 +1296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="egJGkl98htyPJ3e_4n96" name="Architecture-Software ">
-    <mxGraphModel dx="700" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="717" dy="384" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1343,7 +1343,7 @@
           <mxGeometry y="140" width="430" height="128.5" as="geometry" />
         </mxCell>
         <mxCell id="vnFsYaR7603JAvrUiQ1A-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.techtalkthai.com/wp-content/uploads/2016/04/ubuntu_techtalkthai_banner-600x300.jpg;clipPath=inset(12% 30.33% 16.67% 28%);" parent="vnFsYaR7603JAvrUiQ1A-3" vertex="1">
-          <mxGeometry x="84" y="13.5" width="58.41" height="50" as="geometry" />
+          <mxGeometry x="76" y="13.5" width="58.41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bilginc.com/editorFiles/3147aa77.png;" parent="vnFsYaR7603JAvrUiQ1A-3" vertex="1">
           <mxGeometry x="359" y="76" width="50.22" height="33" as="geometry" />
@@ -1355,10 +1355,10 @@
           <mxGeometry x="70" y="80" width="98.83" height="30.48" as="geometry" />
         </mxCell>
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*XHWBKKtB5CeytpnPVpa1_w.png;" parent="vnFsYaR7603JAvrUiQ1A-3" vertex="1">
-          <mxGeometry x="330" y="36.5" width="67.33" height="22.5" as="geometry" />
+          <mxGeometry x="341" y="34.5" width="67.33" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-13" value="" style="group" parent="vnFsYaR7603JAvrUiQ1A-3" vertex="1" connectable="0">
-          <mxGeometry x="168" y="18" width="59" height="46" as="geometry" />
+          <mxGeometry x="156" y="18" width="59" height="46" as="geometry" />
         </mxCell>
         <mxCell id="vnFsYaR7603JAvrUiQ1A-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.4xtreme.com/wp-content/uploads/2019/08/nginx.png;" parent="xIF9YkXGHbseJZLGMLcJ-13" vertex="1">
           <mxGeometry y="26.03773584905661" width="55.19999999999998" height="18.537012702584317" as="geometry" />
@@ -1366,11 +1366,11 @@
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ahmadalli.gallerycdn.vsassets.io/extensions/ahmadalli/vscode-nginx-conf/0.3.5/1711059993560/Microsoft.VisualStudio.Services.Icons.Default;" parent="xIF9YkXGHbseJZLGMLcJ-13" vertex="1">
           <mxGeometry x="18.236676887136817" width="21.07577748576434" height="24.17871222076215" as="geometry" />
         </mxCell>
-        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.devprojournal.com/wp-content/uploads/2022/05/docker-logo-696x596.webp;" vertex="1" parent="vnFsYaR7603JAvrUiQ1A-3">
-          <mxGeometry x="255.00000000000003" y="19.5" width="45.54" height="39" as="geometry" />
-        </mxCell>
         <mxCell id="OJ2dp3Wl0g20lkhHVxB1-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://leafletjs.com/docs/images/logo.png;" vertex="1" parent="vnFsYaR7603JAvrUiQ1A-3">
           <mxGeometry x="261" y="84" width="94.72" height="25.1" as="geometry" />
+        </mxCell>
+        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.docker.com/app/uploads/2023/08/logo-guide-logos-1.svg;clipPath=inset(26% 10.67% 24% 8.33%);" vertex="1" parent="vnFsYaR7603JAvrUiQ1A-3">
+          <mxGeometry x="225" y="23.87" width="97.52" height="40.13" as="geometry" />
         </mxCell>
         <mxCell id="vnFsYaR7603JAvrUiQ1A-4" value="Database" style="swimlane;startSize=50;horizontal=0;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="vnFsYaR7603JAvrUiQ1A-1" vertex="1">
           <mxGeometry y="268.5" width="430" height="120" as="geometry" />
