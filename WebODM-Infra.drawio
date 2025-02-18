@@ -1296,7 +1296,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="egJGkl98htyPJ3e_4n96" name="Architecture-Software ">
-    <mxGraphModel dx="896" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1366,6 +1366,12 @@
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://ahmadalli.gallerycdn.vsassets.io/extensions/ahmadalli/vscode-nginx-conf/0.3.5/1711059993560/Microsoft.VisualStudio.Services.Icons.Default;" parent="xIF9YkXGHbseJZLGMLcJ-13" vertex="1">
           <mxGeometry x="18.236676887136817" width="21.07577748576434" height="24.17871222076215" as="geometry" />
         </mxCell>
+        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.devprojournal.com/wp-content/uploads/2022/05/docker-logo-696x596.webp;" vertex="1" parent="vnFsYaR7603JAvrUiQ1A-3">
+          <mxGeometry x="255.00000000000003" y="19.5" width="45.54" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://leafletjs.com/docs/images/logo.png;" vertex="1" parent="vnFsYaR7603JAvrUiQ1A-3">
+          <mxGeometry x="261" y="84" width="94.72" height="25.1" as="geometry" />
+        </mxCell>
         <mxCell id="vnFsYaR7603JAvrUiQ1A-4" value="Database" style="swimlane;startSize=50;horizontal=0;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="vnFsYaR7603JAvrUiQ1A-1" vertex="1">
           <mxGeometry y="268.5" width="430" height="120" as="geometry" />
         </mxCell>
@@ -1383,12 +1389,6 @@
         </mxCell>
         <mxCell id="xIF9YkXGHbseJZLGMLcJ-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;&quot;&gt;+&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="vnFsYaR7603JAvrUiQ1A-4" vertex="1">
           <mxGeometry x="210" y="41" width="61" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://velog.velcdn.com/images/nhs075241/post/548e9bc7-ca13-4b2f-bd2b-3deeb981650a/image.webp;" vertex="1" parent="1">
-          <mxGeometry x="457" y="229" width="46.78" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OJ2dp3Wl0g20lkhHVxB1-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://camo.githubusercontent.com/21bde99de8822cfb3badba8e8fdf5e62630d2d14a2195edf0d7d542c0c4754cf/68747470733a2f2f7261776769742e636f6d2f4c6561666c65742f4c6561666c65742f6d61696e2f7372632f696d616765732f6c6f676f2e737667;" vertex="1" parent="1">
-          <mxGeometry x="463.36" y="293.49" width="88.64" height="23.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
