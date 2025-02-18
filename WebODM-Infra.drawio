@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.14" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.14" pages="4">
   <diagram name="Infrastructure" id="9O5_x4W_DbiE08nA1CkK">
     <mxGraphModel dx="1500" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -732,7 +732,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uhFiZiRd_v2AVpjjqNXY" name="Process Flow">
-    <mxGraphModel dx="727" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1728" dy="875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -975,6 +975,247 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FSl3WB_qfvaRqZlb8yid-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="d4LLObXrjVZFvoq416VN-22" source="d4LLObXrjVZFvoq416VN-37" target="d4LLObXrjVZFvoq416VN-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-1" value="Process Flow" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=70;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1700" width="1330" height="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;ผู้ใช้งาน&lt;/span&gt;" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-1">
+          <mxGeometry y="70" width="230" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-2" source="QIwpUlDDZGZxdzIgqA52-4" target="QIwpUlDDZGZxdzIgqA52-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-2">
+          <mxGeometry x="95" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-5" value="เปิดเว็บแอปพลิเคชั่น" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-2">
+          <mxGeometry x="44.38" y="176" width="141.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;เว็บแอปพลิเคชั่น&lt;/font&gt;" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-1">
+          <mxGeometry x="230" y="70" width="550" height="1570" as="geometry">
+            <mxRectangle x="120" y="20" width="40" height="460" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-9" target="QIwpUlDDZGZxdzIgqA52-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="270" />
+              <mxPoint x="399" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-8" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-9" target="QIwpUlDDZGZxdzIgqA52-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="289" y="270" />
+              <mxPoint x="183" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-9" value="การรับรองและการอนุญาต" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="210" y="171" width="158.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-11" target="QIwpUlDDZGZxdzIgqA52-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-11" value="ส่งภารกิจเข้าระบบ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="-190.62" y="1135" width="151.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-12" value="" style="group" vertex="1" connectable="0" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="-140" y="1490" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-12">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-12">
+          <mxGeometry x="5" y="5" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="1490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-16" value="Log out" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="-175.31" y="1370" width="110.62" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-18" target="QIwpUlDDZGZxdzIgqA52-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-18" value="สร้างโปรเจ็คใหม่" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="327.49" y="410" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-20" target="QIwpUlDDZGZxdzIgqA52-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-20" value="อัพโหลดภาพ&lt;div&gt;จากโดรน&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0;strokeColor=default;align=center;verticalAlign=middle;fontColor=default;fillColor=default;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="328.12" y="530" width="141.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-22" target="QIwpUlDDZGZxdzIgqA52-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-22" value="&lt;div&gt;ตรวจสอบและ&lt;/div&gt;&lt;div&gt;ดูตัวอย่าง&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="328.12" y="650" width="141.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-24" target="QIwpUlDDZGZxdzIgqA52-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-24" value="กำหนดค่าพารามิเตอร์&lt;div&gt;การประมวลผล&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="310" y="770" width="177.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-25" value="ส่งการประมวลผล" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="327.49" y="890" width="141.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-26" value="รวมผลลัพธ์และแสดงตัวอย่าง" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="328.74" y="1010" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-29" target="QIwpUlDDZGZxdzIgqA52-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-28" value="การส่งออกข้อมูล&lt;br&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;Orthophoto , Metadata&lt;/strong&gt;&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="327.49" y="1130" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-29" value="Customize Map Elements" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="327.74" y="1250" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-31" target="QIwpUlDDZGZxdzIgqA52-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-31" value="Generate Map Layout" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="-190.62" y="1255" width="141.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-32" value="Export &amp;amp; Print Map Layout" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="326.99" y="1370" width="141" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-34" target="QIwpUlDDZGZxdzIgqA52-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-34" value="&lt;div&gt;สิทธิ์การเข้าถึง :&lt;/div&gt;&lt;div&gt;&lt;b&gt;- จำกัดการเข้าถึง -&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="327.49" y="290" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-35" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-37" target="QIwpUlDDZGZxdzIgqA52-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" source="QIwpUlDDZGZxdzIgqA52-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="330" />
+              <mxPoint x="40" y="420" />
+              <mxPoint x="70" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-37" value="&lt;div style=&quot;line-height: 150%;&quot;&gt;&lt;div&gt;สิทธิ์การเข้าถึง :&lt;/div&gt;&lt;div&gt;&lt;b&gt;- เข้าถึงได้เต็มที่ -&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0;spacing=2;spacingBottom=0;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="290" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-38" value="การตั้งค่าและกำหนดค่าระบบ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="410" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-39" value="จัดการโปรเจ็คผู้ใช้ทั้งหมด" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="530" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-40" value="จัดการโหนดการประมวลผล" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="650" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-41" value="การจัดการผู้ใช้และ&lt;div&gt;สิทธิ์การเข้าถึง&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="770" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-42" value="ภาพรวมระบบมอนิเตอร์" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry x="112" y="890" width="142.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-43" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=6;curved=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="401" as="sourcePoint" />
+            <mxPoint x="70" y="981" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" target="QIwpUlDDZGZxdzIgqA52-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="450" as="sourcePoint" />
+            <mxPoint x="130" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" target="QIwpUlDDZGZxdzIgqA52-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="569.8" as="sourcePoint" />
+            <mxPoint x="112" y="569.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" target="QIwpUlDDZGZxdzIgqA52-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="689.8" as="sourcePoint" />
+            <mxPoint x="112" y="689.8" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" target="QIwpUlDDZGZxdzIgqA52-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="809.8" as="sourcePoint" />
+            <mxPoint x="112" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-6" target="QIwpUlDDZGZxdzIgqA52-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="929.8" as="sourcePoint" />
+            <mxPoint x="112" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ประมวลผล&lt;/font&gt;" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-1">
+          <mxGeometry x="780" y="70" width="280" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-50" value="สร้างผลลัพธ์&amp;nbsp;&lt;div&gt;&lt;strong data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;Orthophoto, DSM, DTM&lt;/strong&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;,&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;strong style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; data-end=&quot;1421&quot; data-start=&quot;1387&quot;&gt;&amp;nbsp;3D Model, etc.&lt;/strong&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-49">
+          <mxGeometry x="61.25" y="410" width="177.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-49" source="QIwpUlDDZGZxdzIgqA52-52" target="QIwpUlDDZGZxdzIgqA52-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-52" value="&lt;div&gt;กระจายงาน&lt;/div&gt;&lt;div&gt;ข้าม&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;เซิร์ฟเวอร์&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;หลายเครื่อง&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-49">
+          <mxGeometry x="62.25" y="170" width="175" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-49" source="QIwpUlDDZGZxdzIgqA52-54" target="QIwpUlDDZGZxdzIgqA52-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-54" value="เริ่มดำเนินการ" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-49">
+          <mxGeometry x="81" y="290" width="137.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-55" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;บริการ&lt;/font&gt;" style="swimlane;startSize=50;html=1;flipV=0;flipH=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-1">
+          <mxGeometry x="1060" y="70" width="270" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-55" source="QIwpUlDDZGZxdzIgqA52-57" target="QIwpUlDDZGZxdzIgqA52-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-57" value="นำเข้ารูปภาพสู่ GIS" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-55">
+          <mxGeometry x="60" y="170" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-58" value="&lt;div&gt;การให้บริการ&lt;/div&gt;&lt;div&gt;สำหรับระบบนิเวศ GIS&lt;/div&gt;&lt;div&gt;&lt;b&gt;WMS, WMTS, etc.&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontSize=15;fontStyle=0" vertex="1" parent="QIwpUlDDZGZxdzIgqA52-55">
+          <mxGeometry x="60" y="290" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-59" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-1" source="QIwpUlDDZGZxdzIgqA52-25" target="QIwpUlDDZGZxdzIgqA52-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="1000" />
+              <mxPoint x="810" y="220" />
+              <mxPoint x="930" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-1" source="QIwpUlDDZGZxdzIgqA52-50" target="QIwpUlDDZGZxdzIgqA52-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="930" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-61" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-1" source="QIwpUlDDZGZxdzIgqA52-28" target="QIwpUlDDZGZxdzIgqA52-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="1240" />
+              <mxPoint x="1090" y="220" />
+              <mxPoint x="1210" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QIwpUlDDZGZxdzIgqA52-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="QIwpUlDDZGZxdzIgqA52-1" source="QIwpUlDDZGZxdzIgqA52-5" target="QIwpUlDDZGZxdzIgqA52-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
