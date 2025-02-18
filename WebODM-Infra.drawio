@@ -1296,12 +1296,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="egJGkl98htyPJ3e_4n96" name="Architecture-Software ">
-    <mxGraphModel dx="1062" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vnFsYaR7603JAvrUiQ1A-1" value="Architecture Software Platform" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=1;startSize=20;horizontalStack=0;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
-          <mxGeometry x="10" y="190" width="430" height="388.5" as="geometry" />
+          <mxGeometry x="199" y="70" width="430" height="388.5" as="geometry" />
         </mxCell>
         <mxCell id="vnFsYaR7603JAvrUiQ1A-2" value="User Interface" style="swimlane;startSize=50;horizontal=0;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="vnFsYaR7603JAvrUiQ1A-1" vertex="1">
           <mxGeometry y="20" width="430" height="120" as="geometry" />
