@@ -1385,6 +1385,9 @@
         <mxCell id="PBURcO_xDmyYzHPY_Bqt-1" value="เผยแพร่การบริการ" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="580" width="280" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ttwr3wkm_bZJSaC8vujj-1" value="แอดมิน" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="60" y="430" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
