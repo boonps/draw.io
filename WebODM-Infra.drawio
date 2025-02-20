@@ -1392,7 +1392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xObCIAXRLtnzq9J0PylY" name="Architecture-System">
-    <mxGraphModel dx="1103" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="416" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1435,7 +1435,7 @@
         <mxCell id="C7oeXBVSR3Eh74I_9os_-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="359" y="290" width="110" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1iMKtNHWeDNEFO7Rq2Yy-4" value="&lt;b&gt;Processor node&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;[&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Emergency Case&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 8px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="C7oeXBVSR3Eh74I_9os_-9">
+        <mxCell id="1iMKtNHWeDNEFO7Rq2Yy-4" value="&lt;b&gt;Processor node&lt;/b&gt;&lt;div&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;[ U&lt;/font&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;rgent Case&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 8px;&quot;&gt;]&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="C7oeXBVSR3Eh74I_9os_-9">
           <mxGeometry y="8" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C7oeXBVSR3Eh74I_9os_-3" value="&lt;font&gt;VM No. 4&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=#f8cecc;arcSize=29;fontSize=7;strokeColor=#b85450;labelBackgroundColor=none;fontStyle=1;fontColor=light-dark(#b85450, #ededed);" vertex="1" parent="C7oeXBVSR3Eh74I_9os_-9">
