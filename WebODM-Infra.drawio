@@ -1392,7 +1392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xObCIAXRLtnzq9J0PylY" name="Architecture-System">
-    <mxGraphModel dx="416" dy="222" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1523,6 +1523,9 @@
         </mxCell>
         <mxCell id="C7oeXBVSR3Eh74I_9os_-36" value="&lt;font style=&quot;font-size: 20px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Chakra+Petch&quot; face=&quot;Chakra Petch&quot;&gt;สภากาชาดไทย&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#FF0000;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="340" y="570" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C7oeXBVSR3Eh74I_9os_-37" value="&lt;font&gt;System Architecture and Diagram&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fillColor=#6d8764;arcSize=29;fontSize=13;strokeColor=#3A5431;labelBackgroundColor=none;fontStyle=0;fontColor=#ffffff;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="250" height="22" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
