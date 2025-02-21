@@ -1365,21 +1365,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i5LtBaRycPfbtIpRlVGW" name="Context">
-    <mxGraphModel dx="580" dy="335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="967" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="pXNf_2yOtltdqw2L8qWC-7" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:456,&amp;quot;end&amp;quot;:756},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:535,&amp;quot;end&amp;quot;:642},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:566,&amp;quot;end&amp;quot;:642},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:566,&amp;quot;end&amp;quot;:591}]&quot;&gt;&lt;span&gt;ข้อมูลการติดตามการประมวลผล&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
           <mxGeometry x="913" y="210" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="o7iMOr-nXF_6mPv9h4Eb-1" value="ผู้ใช้งาน" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
-          <mxGeometry x="370" y="390" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="eyqWLKfBTNds-hM5j1H9-1" value="หน่วยประมวลผล" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
-          <mxGeometry x="1175" y="434" width="100" height="100" as="geometry" />
+          <mxGeometry x="1171" y="434" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eyqWLKfBTNds-hM5j1H9-2" value="บริการ GIS" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
-          <mxGeometry x="1175" y="590" width="105" height="105" as="geometry" />
+          <mxGeometry x="1171" y="590" width="105" height="105" as="geometry" />
         </mxCell>
         <mxCell id="pXNf_2yOtltdqw2L8qWC-3" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:true,&amp;quot;start&amp;quot;:456,&amp;quot;end&amp;quot;:756},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:456,&amp;quot;end&amp;quot;:533},&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:483,&amp;quot;end&amp;quot;:533},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:483,&amp;quot;end&amp;quot;:503}]&quot;&gt;การรองรับการอนุญาต&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" parent="1" vertex="1">
           <mxGeometry x="470" y="950" width="130" height="50" as="geometry" />
@@ -1514,6 +1511,53 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="500.0023076923077" as="sourcePoint" />
+            <mxPoint x="430" y="500.3623076923077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-21" value="สถานะการประมวลผล" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="YLEap3famw5BINciB4tY-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="529.9976923076923" as="sourcePoint" />
+            <mxPoint x="430" y="530.3576923076923" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-23" value="ผลลัพธ์การประมวลผล" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="YLEap3famw5BINciB4tY-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="440" as="sourcePoint" />
+            <mxPoint x="680" y="439.9953846153845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-25" value="สิทธิ์การเข้าใช้งาน" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;spacing=2;spacingTop=0;spacingLeft=0;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="YLEap3famw5BINciB4tY-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.007;entryY=0.181;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="469.1199999999999" as="sourcePoint" />
+            <mxPoint x="430" y="469.4799999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-27" value="ข้อมูลผลลัพธ์การประมวลผล" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" connectable="0" parent="YLEap3famw5BINciB4tY-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YLEap3famw5BINciB4tY-28" value="ผู้ใช้งาน" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;" vertex="1" parent="1">
+          <mxGeometry x="319" y="433" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
