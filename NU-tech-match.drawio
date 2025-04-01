@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W1xLZe9Zu26R38Tlsef6" name="SiteMap">
-    <mxGraphModel dx="214" dy="-544" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1224" dy="-16" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1105,18 +1105,6 @@
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-3" value="เกี่ยวกับ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2010" y="1480" width="110" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="VyctpJ4-_yaCyYy4iSJs-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1760" y="1720" width="150" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VyctpJ4-_yaCyYy4iSJs-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1920" y="1720" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VyctpJ4-_yaCyYy4iSJs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2070" y="1720" width="120" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="VyctpJ4-_yaCyYy4iSJs-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2200" y="1720" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-8" value="แผนที่" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFF99;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2490" y="1480" width="110" height="120" as="geometry" />
@@ -1177,38 +1165,8 @@
         </mxCell>
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--9" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="1680" as="sourcePoint" />
+            <mxPoint x="2060" y="2100" as="sourcePoint" />
             <mxPoint x="2060.17" y="1600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--10" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="1680" as="sourcePoint" />
-            <mxPoint x="2270" y="1680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.462;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" source="VyctpJ4-_yaCyYy4iSJs-4" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1830" y="1710" as="sourcePoint" />
-            <mxPoint x="1830" y="1680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.401;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1989.96" y="1720" as="sourcePoint" />
-            <mxPoint x="1990" y="1680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.401;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2129.96" y="1720" as="sourcePoint" />
-            <mxPoint x="2130" y="1680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.497;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" source="VyctpJ4-_yaCyYy4iSJs-7" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2269.89" y="1700" as="sourcePoint" />
-            <mxPoint x="2270" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.496;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" source="I1jxkynYK-d1DSGOcsQN-1" edge="1">
@@ -1352,30 +1310,6 @@
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-4" value="กิจกรรมยกระดับพื้นที่" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="1495" y="1810" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-5" value="รายละเอียดเป้าหมายโครงการ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1770" y="1760" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-6" value="เป้าหมายโครงการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1777.5" y="1725" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-8" value="7 TECH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1955" y="1725" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-10" value="รายละเอียดข้อมูล&amp;nbsp;&lt;div&gt;เทคโนโลยีทั้ง 7&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1927.5" y="1760" width="125" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-11" value="TECH ชายแดน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2080" y="1725" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-12" value="TECH CIAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2225" y="1725" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-13" value="โครงการเทคโนโลยี&lt;div&gt;ชายแดน&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2078.75" y="1760" width="102.5" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tDmojF8Ac7H0FjaS-3bE-14" value="กระบวนการสู่เมืองน่าอยู่&lt;div&gt;18 City&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="2207.5" y="1760" width="125" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-16" value="ข้อมูลเทคโนโลยี&lt;br&gt;7 TECH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2455" y="1730" width="180" height="30" as="geometry" />
         </mxCell>
@@ -1403,80 +1337,152 @@
             <mxPoint x="2780" y="1600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-1" value="การนำเทคโนโลยี&lt;div&gt;ไปใช้ประโยชน์&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-1" value="การนำเทคโนโลยี&lt;div&gt;ไปใช้ประโยชน์&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="2471.25" y="1860" width="147.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-5" value="แผนที่เทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-5" value="แผนที่เทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3710" y="1770" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-6" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Dashbroad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-6" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Dashbroad&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3730" y="1730" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-8" value="กราฟเทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-8" value="กราฟเทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3710" y="1795" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-9" value="การใช้งานตามมหาวิทยาลัย" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-9" value="การใช้งานตามมหาวิทยาลัย" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3710" y="1820" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-10" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Stock&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-10" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Stock&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3880" y="1725" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-11" value="Tech Type ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-11" value="Tech Type ID" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3880" y="1770" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-12" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-12" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4047.5" y="1725" width="115" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-13" value="Tech Type Name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-13" value="Tech Type Name" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3880" y="1791" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-15" value="แสดงข้อมูล" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-15" value="แสดงข้อมูล" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1767.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-16" value="Tech Level" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-16" value="Tech Level" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3880" y="1812.5" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-17" value="University" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-17" value="University" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3880" y="1832.5" width="100" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4220" y="1720" width="130" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-19" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Log&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-19" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Data Log&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4235" y="1727.5" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-20" value="ข้อมูลที่มีการสร้าง" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-20" value="ข้อมูลที่มีการสร้าง" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4235" y="1767.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.493;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" edge="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-21" value="" style="endArrow=none;html=1;rounded=0;exitX=0.493;exitY=0.006;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="4279.999999999999" y="1720" as="sourcePoint" />
             <mxPoint x="4280.179999999999" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-22" value="Tech Idit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-22" value="Tech Idit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1792.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-23" value="Tech View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-23" value="Tech View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1820" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-24" value="Tech Delete" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-24" value="Tech Delete" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1847.5" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-25" value="Tech Add" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-25" value="Tech Add" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1880" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-26" value="ข้อมูลที่มีการแก้ไข" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-26" value="ข้อมูลที่มีการแก้ไข" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4235" y="1795" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-27" value="ข้อมูลที่มีการลบ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-27" value="ข้อมูลที่มีการลบ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4235" y="1825" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-30" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Profile&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-30" value="&lt;span style=&quot;font-family: Prompt;&quot;&gt;Admin&lt;/span&gt;&lt;div style=&quot;font-family: Prompt;&quot;&gt;Profile&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3560" y="1727.5" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-31" value="ข้อมูลผู้ดูแลระบบ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-31" value="ข้อมูลผู้ดูแลระบบ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3540" y="1770" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2080" y="2050" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyctpJ4-_yaCyYy4iSJs-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-1" vertex="1">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-12" value="TECH CIAP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-1" vertex="1">
+          <mxGeometry x="25" y="5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-14" value="กระบวนการสู่เมืองน่าอยู่&lt;div&gt;18 City&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-1" vertex="1">
+          <mxGeometry x="7.5" y="40" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2080" y="1930" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyctpJ4-_yaCyYy4iSJs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-2" vertex="1">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-11" value="TECH ชายแดน" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-2" vertex="1">
+          <mxGeometry x="11.666666666666666" y="5" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-13" value="โครงการเทคโนโลยี&lt;div&gt;ชายแดน&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-2" vertex="1">
+          <mxGeometry x="10.208333333333334" y="40" width="119.58333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2080" y="1810" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyctpJ4-_yaCyYy4iSJs-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-3" vertex="1">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-8" value="7 TECH" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-3" vertex="1">
+          <mxGeometry x="35" y="5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-10" value="รายละเอียดข้อมูล&amp;nbsp;&lt;div&gt;เทคโนโลยีทั้ง 7&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-3" vertex="1">
+          <mxGeometry x="7.5" y="40" width="125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="2080" y="1690" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VyctpJ4-_yaCyYy4iSJs-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-4" vertex="1">
+          <mxGeometry width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-5" value="รายละเอียดเป้าหมายโครงการ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-4" vertex="1">
+          <mxGeometry x="9.333333333333334" y="40" width="116.66666666666667" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tDmojF8Ac7H0FjaS-3bE-6" value="เป้าหมายโครงการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-4" vertex="1">
+          <mxGeometry x="16.333333333333332" y="5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VyctpJ4-_yaCyYy4iSJs-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2060" y="1740" as="sourcePoint" />
+            <mxPoint x="2200" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2060" y="1860" as="sourcePoint" />
+            <mxPoint x="2080" y="1860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2060" y="1979.91" as="sourcePoint" />
+            <mxPoint x="2080" y="1979.91" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2060" y="2099.91" as="sourcePoint" />
+            <mxPoint x="2080" y="2099.91" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
