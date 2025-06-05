@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.1.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="27.1.3" pages="2">
   <diagram name="Page-1" id="xaBScqVrZRNOG_s1V2p9">
     <mxGraphModel dx="3217" dy="-2229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1085,7 +1085,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W1xLZe9Zu26R38Tlsef6" name="SiteMap">
-    <mxGraphModel dx="-270" dy="-352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="-840" dy="-556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1202,7 +1202,7 @@
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--23" value="ทีมนักวิจัย&lt;div&gt;มหาวิทยาลัยนเรศวร&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2755" y="1920" width="110" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="x_F2mCI9gTZ1n0NcU6m--24" value="ทีมนักวิจัย&lt;div&gt;ศคน.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
+        <mxCell id="x_F2mCI9gTZ1n0NcU6m--24" value="ทีมนักวิจัย&lt;div&gt;&lt;span style=&quot;text-align: start; line-height: 22.8267px;&quot; lang=&quot;TH&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Prompt&quot; face=&quot;Prompt&quot; style=&quot;font-size: 12px;&quot;&gt;สถาบันความร่วมมือเพื่อเมืองน่า อยู่ชาญฉลาด (สคน)&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: medium; font-weight: 400; text-align: start;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2955" y="1920" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--25" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" edge="1">
@@ -1290,7 +1290,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--43" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1880" y="1720" width="160" height="130" as="geometry" />
+          <mxGeometry x="1880" y="1720" width="160" height="170" as="geometry" />
         </mxCell>
         <mxCell id="x_F2mCI9gTZ1n0NcU6m--45" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" source="VyctpJ4-_yaCyYy4iSJs-2" target="x_F2mCI9gTZ1n0NcU6m--43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1308,7 +1308,7 @@
           <mxGeometry x="1895" y="1780" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-4" value="กิจกรรมยกระดับพื้นที่" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
-          <mxGeometry x="1895" y="1810" width="125" height="20" as="geometry" />
+          <mxGeometry x="1895" y="1840" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-16" value="ข้อมูลเทคโนโลยี&lt;br&gt;7 TECH" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="2455" y="1730" width="180" height="30" as="geometry" />
@@ -1388,7 +1388,7 @@
             <mxPoint x="4280.179999999999" y="1680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOwidg8sDIzRjzNB_YcY-22" value="Tech Idit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
+        <mxCell id="zOwidg8sDIzRjzNB_YcY-22" value="Tech Edit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="4055" y="1792.5" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zOwidg8sDIzRjzNB_YcY-23" value="Tech View" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
@@ -1412,7 +1412,7 @@
         <mxCell id="zOwidg8sDIzRjzNB_YcY-31" value="ข้อมูลผู้ดูแลระบบ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=none;fontColor=#FF262D;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="3540" y="1770" width="100" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-1" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2230" y="2052.5" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-1" vertex="1">
@@ -1424,7 +1424,7 @@
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-14" value="กระบวนการสู่เมืองน่าอยู่&lt;div&gt;18 City&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-1" vertex="1">
           <mxGeometry x="7.5" y="40" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-2" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-2" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2230" y="1932.5" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-2" vertex="1">
@@ -1436,7 +1436,7 @@
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-13" value="โครงการเทคโนโลยี&lt;div&gt;ชายแดน&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-2" vertex="1">
           <mxGeometry x="10.208333333333334" y="40" width="119.58333333333333" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-3" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-3" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2230" y="1812.5" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-3" vertex="1">
@@ -1448,7 +1448,7 @@
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-10" value="รายละเอียดข้อมูล&amp;nbsp;&lt;div&gt;เทคโนโลยีทั้ง 7&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-3" vertex="1">
           <mxGeometry x="7.5" y="40" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-4" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-4" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="2230" y="1692.5" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VyctpJ4-_yaCyYy4iSJs-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-4" vertex="1">
@@ -1460,29 +1460,32 @@
         <mxCell id="tDmojF8Ac7H0FjaS-3bE-6" value="เป้าหมายโครงการ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="GNAjsQ5mHe-_X1hnqXPE-4" vertex="1">
           <mxGeometry x="16.333333333333332" y="5" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VyctpJ4-_yaCyYy4iSJs-4">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VyctpJ4-_yaCyYy4iSJs-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2210" y="1742.5" as="sourcePoint" />
             <mxPoint x="2350" y="1772.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-6" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2210" y="1862.5" as="sourcePoint" />
             <mxPoint x="2230" y="1862.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2210" y="1982.41" as="sourcePoint" />
             <mxPoint x="2230" y="1982.41" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="GNAjsQ5mHe-_X1hnqXPE-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2210" y="2102.41" as="sourcePoint" />
             <mxPoint x="2230" y="2102.41" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tDvUC7SryLvcEsY79hl8-1" value="การกระจายเทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" vertex="1" parent="1">
+          <mxGeometry x="1897.5" y="1810" width="125" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
