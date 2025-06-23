@@ -1085,11 +1085,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="W1xLZe9Zu26R38Tlsef6" name="SiteMap">
-    <mxGraphModel dx="4203" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1743" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7MQSqxLVHoNNzKBpXXS4-3" value="บ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7MQSqxLVHoNNzKBpXXS4-3" value="บ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1830" y="1180" width="2580" height="1020" as="geometry" />
         </mxCell>
         <UserObject label="https://cdn.prod.website-files.com/611f7b07b43f5829bf1ca02f/66f4e66819ed90bc68a0f28d_664c75a55a08d79d23f897a4_652f1dce81300240371287b5_Features%2520Sitemap.webp" link="https://cdn.prod.website-files.com/611f7b07b43f5829bf1ca02f/66f4e66819ed90bc68a0f28d_664c75a55a08d79d23f897a4_652f1dce81300240371287b5_Features%2520Sitemap.webp" id="chmPCtrUVuexBGXVlC3d-1">
@@ -1490,11 +1490,35 @@
         <mxCell id="tDvUC7SryLvcEsY79hl8-1" value="การกระจายเทคโนโลยี" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;" parent="1" vertex="1">
           <mxGeometry x="1897.5" y="1810" width="125" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7MQSqxLVHoNNzKBpXXS4-1" value="ขอบเขตการปกครอง" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+        <mxCell id="7MQSqxLVHoNNzKBpXXS4-1" value="ขอบเขตการปกครอง" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;fontFamily=Prompt;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPrompt;strokeColor=none;fontColor=#6283CC;fontStyle=0;labelBorderColor=none;textShadow=0;" parent="1" vertex="1">
           <mxGeometry x="2471.25" y="1900" width="147.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MGW5zp__d7yFQsqjNwH0-1" value="&lt;b&gt;Sitemap&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;arcSize=32;fontSize=33;strokeColor=#314354;" vertex="1" parent="1">
-          <mxGeometry x="4570" y="1590" width="210" height="80" as="geometry" />
+        <mxCell id="MGW5zp__d7yFQsqjNwH0-1" value="&lt;b&gt;Sitemap&amp;nbsp;&lt;/b&gt;&lt;b&gt;- Tech Stock Platform&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fillColor=#647687;fontFamily=Chakra Petch;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DChakra%2BPetch;fontColor=#ffffff;arcSize=32;fontSize=33;strokeColor=#314354;" parent="1" vertex="1">
+          <mxGeometry x="2790" y="1138" width="595" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="4119" y="1230" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="4119" y="1280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="4119" y="1330" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="4119" y="1380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-8" value="&lt;span style=&quot;font-kerning: normal;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;ผู้ใช้งานทั่วไป&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4150" y="1230" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-10" value="&lt;span style=&quot;font-kerning: normal;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;ผู้ดูแลระบบ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4145" y="1280" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-11" value="&lt;span style=&quot;font-kerning: normal;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;แสดงผลส่วนผู้ใช้งาน&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4168" y="1330" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8DTogMFgf3M4F_LgGBp-12" value="&lt;span style=&quot;font-kerning: normal;&quot; class=&quot;OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none&quot;&gt;แสดงผลส่วนผู้ดูแลระบบ&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4162.5" y="1380" width="132" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
