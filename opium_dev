@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.2.0" pages="3">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="574" dy="286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zgGgacrk6yrvWPBBmbuU" name="Page-2">
-    <mxGraphModel dx="3369" dy="1276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -675,6 +675,14 @@
         <mxCell id="A3q97tgvfExCW4N0byIi-60" value="&lt;font style=&quot;color: light-dark(rgb(49, 67, 84), rgb(237, 237, 237));&quot;&gt;&amp;nbsp; &amp;nbsp; System Architecture&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;flipV=1;labelBackgroundColor=none;labelBorderColor=none;arcSize=50;fillColor=default;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="-190" y="110" width="240" height="40" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ojr_7RrZwVaEUJy-_Y2k" name="datadict">
+    <mxGraphModel dx="1248" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
