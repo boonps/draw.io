@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1">
-  <diagram name="Page-1" id="-jsWknLSB2cgd7WFWsZX">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.1" pages="2">
+  <diagram name="S-Arch" id="-jsWknLSB2cgd7WFWsZX">
     <mxGraphModel dx="2179" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -251,6 +251,14 @@
         <mxCell id="AnZqtszjK9pNEcH8Rfgm-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=K2D;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DK2D;fillColor=#fad7ac;arcSize=39;verticalAlign=middle;spacingBottom=0;fontSize=7;strokeColor=#b46504;" value="&lt;font&gt;Security JWT&lt;/font&gt;" vertex="1">
           <mxGeometry height="15" width="55" x="522.5" y="410" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FVkDyq87b89iEq7D0e8P" name="Tech">
+    <mxGraphModel dx="1462" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
