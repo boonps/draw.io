@@ -1083,7 +1083,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Relations P2" id="UJBbwtgrwhvzJie8jiNd">
-    <mxGraphModel dx="1613" dy="1186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="1578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0vv3rFZUU5tHocTaJetD-0" />
         <mxCell id="0vv3rFZUU5tHocTaJetD-1" parent="0vv3rFZUU5tHocTaJetD-0" />
@@ -1257,6 +1257,22 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="172.42000000000002" y="920" as="sourcePoint" />
             <mxPoint x="-237.57999999999998" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNBlvung5_5DBygUcV5i-3" connectable="0" parent="QNBlvung5_5DBygUcV5i-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="แปลงจากเลข" vertex="1">
+          <mxGeometry relative="1" x="0.0525" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNBlvung5_5DBygUcV5i-4" edge="1" parent="0vv3rFZUU5tHocTaJetD-1" source="iHldmgFN25-DkjA79W9P-19" style="endArrow=classic;html=1;rounded=0;strokeWidth=3;fillColor=#f8cecc;strokeColor=#0000FF;exitX=0.484;exitY=0.482;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.676;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" target="iHldmgFN25-DkjA79W9P-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="370" y="1030" as="sourcePoint" />
+            <mxPoint x="-80" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QNBlvung5_5DBygUcV5i-5" connectable="0" parent="QNBlvung5_5DBygUcV5i-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="แปลงจากเลข" vertex="1">
+          <mxGeometry relative="1" x="0.0525" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
